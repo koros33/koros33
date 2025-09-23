@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Koros  
 
-<!--
-**koros33/koros33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍💻 I’m a **Technical Writer** focused on **API documentation** , turning complex systems into clear, developer friendly docs that improve **developer experience (DX)**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do  
+- 🧾 Focus on **API documentation** (reference, onboarding, tutorials).  
+- 🔒 Create **API tests, guides, and docs generation workflows** with modern tools.  
+- 🎯 Advocate for **DX best practices** to make products easier for developers.  
+- 🧩 Explore **backend API engineering with Python** to bridge dev + docs.  
+
+---
+
+## 🌱 Current Focus  
+- ✍🏽 Writing better **API onboarding guides** that reduce first-call time.  
+- 🧪 Building **API tests** to validate docs accuracy.  
+- ⚡ Experimenting with **automated docs generation**.  
+- 🔍 Deep-diving into **backend API design** to improve documentation quality.  
+
+---
+
+## 💡 Philosophy  
+> ✨ Good docs aren’t just written — **they’re designed**.  
+Clear structure + thoughtful design = a better developer experience.  
+
+
