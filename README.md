@@ -1,20 +1,22 @@
-# 👋 Hi, I'm Koros  
+# Hi, I'm Koros Ian 👋
+**Aspiring Cybersecurity Analyst | Self-taught Computer Scientist**  
 
-👨🏽‍💻 I’m a Technical Writer 
--  Currently working on technical documentation projects
--  Open to collaborating on software documentation, user manuals, and API docs
-
-## Ask me about
-- APIs
-- Product and process documentation
-- user and developer experience
+Welcome to my portfolio! I build tools for **threat detection, log analysis, and security automation**, combining hands-on coding with practical cybersecurity skills.
 
 
-## 💡 Philosophy  
-> ✨ Good docs aren’t just written — **they’re designed**.  
-Clear structure + thoughtful design = a better developer experience.
+## 🧠 Skills & Focus
+- **Languages:** C, JavaScript, Python, SQL  
+- **Tools:** tcpdump, Wireshark, Suricata, Splunk  
+- **Mindset:** Quick learner, hands-on problem solver, focused on cybersecurity analysis and automation.  
+
+💼 *Open to Cybersecurity Analyst and related opportunities.*
 
 
+## 📫 Contact
+📬 **Email:** korospaul43@gmail.com 
 
+🐦 **GitHub:** [github.com/koros33](https://github.com/koros33)  
+
+Feel free to reach out for roles, collaborations, or project inquiries!
 
 
