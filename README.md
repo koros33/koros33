@@ -9,7 +9,7 @@ Welcome to my portfolio! I build tools for **threat detection, log analysis, and
 - **Tools:** tcpdump, Wireshark, Suricata, Splunk  
 - **Mindset:** Quick learner, hands-on problem solver, focused on cybersecurity analysis and automation.  
 
-💼 *Open to Cybersecurity Analyst and related opportunities.*
+💼 *Open to Cybersecurity intern or jr Analyst roles and related opportunities.*
 
 
 ## 📫 Contact
