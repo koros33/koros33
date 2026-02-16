@@ -1,22 +1,55 @@
-# Hi, I'm Koros Ian 👋
-**Aspiring Cybersecurity Analyst | Self-taught Computer Scientist**  
+# Hey, I'm Koros Ian 👋
 
-Welcome to my portfolio! I build tools for **threat detection, log analysis, and security automation**, combining hands-on coding with practical cybersecurity skills.
+Self-taught developer building things and learning computer science fundamentals. Open to internship opportunities.
 
+## 🔧 What I'm Working With
 
-## 🧠 Skills & Focus
-- **Languages:** C, JavaScript, Python, SQL  
-- **Tools:** tcpdump, Wireshark, Suricata, Splunk  
-- **Mindset:** Quick learner, hands-on problem solver, focused on cybersecurity analysis and automation.  
-
-💼 *Open to Cybersecurity intern or jr Analyst roles and related opportunities.*
+**Currently learning:**
+- Go (backend/systems programming)
+- Computer Science fundamentals via MIT OCW
 
 
-## 📫 Contact
-📬 **Email:** korospaul43@gmail.com 
+**Open to learning:**
+- Python, Rust, JavaScript, 
+- New frameworks and tools
+- Best practices from experienced devs
 
-🐦 **GitHub:** [github.com/koros33](https://github.com/koros33)  
+## 🚀 Recent Projects
 
-Feel free to reach out for roles, collaborations, or project inquiries!
+**[Crawl Guardian](https://github.com/koros33/crawl-guardian)**
+- Go web crawler
+- Concurrent scraping with goroutines and worker pools
+- 100% success rate on test runs
+- Learned: concurrency, HTTP clients, database design
+
+**[SearchHub](https://github.com/koros33/searchhub)** 
+- Search API
+- RESTful API with DuckDuckGo integration
+- Rate limiting, caching, JWT auth (in progress)
+- Learned: API design, middleware, external API integration
+
+## 📚 Learning Path
+
+- MIT OCW courses (6.006, 6.00x)
+- Building projects to understand concepts
+- Reading docs, debugging, figuring things out
+
+## 💼 What I'm Looking For
+
+Internship roles where I can:
+- Learn from experienced engineers
+- Work on real codebases
+- Contribute to actual projects more than me 
+- Get mentorship and feedback
+
+I'm not attached to any specific tech stack - willing to learn whatever's needed.
+
+## 📫 Let's Connect
+
+- **Email**: korospaul43@gmail.com
+- **GitHub**: [github.com/koros33](https://github.com/koros33)
 
 
+---
+
+*Currently building a Google SERP scraper and learning about anti-bot evasion. Always working on something.*
