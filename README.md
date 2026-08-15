@@ -22,10 +22,15 @@ Self-taught developer building things and learning computer science fundamentals
 - Neon PostgreSQL for storage
 - Pivoting to African markets — NSE Kenya via mystocks.africa API
 - Learned: system design, financial math, Go/Python interop, database design, API architecture, how to debug things that break in production at 11pm
+  > **Momentum Index Performance (March 12 – July 9, 2026)**
+> Base: 100 → Current: 162.83 → Peak: 189.32
+> +62.8% return | 30-stock equal-weight momentum portfolio | Quarterly rebalance
+
+- Learned: system design, financial math, Go/Python interop, database design, API architecture, how to debug things that break in production at 11pm
+
 
 ## 📚 Learning Path
-
-- MIT OCW courses (6.006, 6.00x)
+- MIT OCW cour(6.006
 - Building projects to understand concepts in practice
 - NSE-Pulse taught me more than any course — financial data is messy, APIs lie, production has gaps
 - Reading docs, debugging, figuring things out the hard way
